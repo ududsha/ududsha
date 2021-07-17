@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ***JavaScript in depth*** to help teach students to learn programming using JavaScript!
 - 👯 I’m looking to collaborate on open source projects that fullfills my motovation which i mentioned above!
 - 🤔 I’m looking for help from the people who has ***knowledge***
-- 💬 Ask me about tech, art, personal growth, ventures, motivation, and entrepeneurship
+- 💬 Ask me about tech, art, leadership, personal growth, ventures, motivation, and entrepeneurship
 - 📫 How to reach me: ududsha@gmail.com / (+65)88294929
 - 😄 Pronouns: Shamen-dra
 - ⚡ Fun fact: I would love to interview people! Visit www.thoughtprocess.xyz
