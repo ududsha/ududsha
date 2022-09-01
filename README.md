@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help from the people who has ***knowledge*** and willling to share!
 - 💬 Ask me about tech, art, leadership, personal growth, ventures, motivation, and entrepeneurship
 - 📫 How to reach me: ududsha@gmail.com
-- 😄 Pronouns: Shamen-dra
+- 😄 Call me: Sirï
 - ⚡ Fun fact: I would love to interview people! Visit www.thoughtprocess.xyz
 
 <!--
