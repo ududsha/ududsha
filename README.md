@@ -3,7 +3,7 @@
 **My Motivation**: Build something awesome, useful and creative. It's not a matter how big your repo is, it's about the problem you are solving.
 
 - 🔭 I’m currently working on a mission to help people by solving small problems using softwares, one at a time.
-- 🌱 Mastering ***software architecture, clean code and modern web and mobile technologies***. 
+- 🌱 Mastering ***software architecture and clean code with modern web and mobile technologies***. 
 - 👯 I’m looking to ***collaborate on open source projects*** and ***opportunities to teach/share*** stuffs what I learned so far!
 - 🤔 I’m looking for help from the people who has ***knowledge*** and willling to share!
 - 💬 Ask me about tech, art, leadership, personal growth, ventures, motivation, and entrepeneurship
