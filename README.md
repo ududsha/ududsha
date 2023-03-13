@@ -2,6 +2,8 @@
 
 **My Motivation**: Build something awesome, useful and creative. It's not a matter how big your repo is, it's about the problem you are solving.
 
+🔗 Connect with me here: https://www.linkedin.com/in/udsha/
+
 - 🔭 I’m currently working on a mission to help people by solving small problems using softwares, one at a time.
 - 🌱 Mastering ***software architecture and clean code with modern web and mobile technologies***. 
 - 👯 I’m looking to ***collaborate on open source projects*** and ***opportunities to teach/share*** stuffs what I learned so far!
