@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-**My Motivation**: Build something awesome, useful and creative. It's all about the problem you are solving.
+`whoiami`: **A Person who is obsessed with startups and ideas! Building one at a time**.
 
 🔗 Connect with me here: https://www.linkedin.com/in/shamendrasiri or www.shamendra.xyz
+![WhatsApp Image 2025-11-28 at 10 40 53](https://github.com/user-attachments/assets/c8b545c3-63ca-48c5-86b6-759403a70c13)
 
-- 🌱 Mastering ***software architecture and clean code for modern web and mobile applications***. 
-- 👯 I can help you by ***collaborate on software projects*** and ***by being a resource person for events / meetups***!
-- 📫 How to reach me: ududsha@gmail.com
+
+- 🌱 Mastering **mindfulness**. Fan of **APR** (Awareness/Pause/Reframe).
+- 👯 Hosting **techmeetups**!
+- 📫 How to reach me: Send me a message over LinkedIn.
 
 
